@@ -1,7 +1,10 @@
 {
-  "login: [
-    { 
-      "message" : "success"
+  "login": [
+    {
+      "message": "success"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
