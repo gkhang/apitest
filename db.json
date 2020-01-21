@@ -1,10 +1,1 @@
-{
-  "login": [
-    {
-      "message": "success"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"login":["abc":1]}
