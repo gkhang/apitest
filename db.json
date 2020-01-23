@@ -21,7 +21,9 @@
     }
   },
   "test": {
-    "test" : 1234
+    "abc" :{
+      "test" : 1234
+    }
   },
   "loginout": [
     {
