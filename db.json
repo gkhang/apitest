@@ -8,6 +8,11 @@
       "balance": 1320.5
     }
   ],
+  "user: {
+    "balance" : {
+      "balance": 1320.5
+    }
+  }
   "loginout": [
     {
        "message" : "success"
