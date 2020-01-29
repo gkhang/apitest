@@ -20,7 +20,7 @@
   },
   "loginout": [
     {
-       "message" : "success"
+       "error" : []
     }
   ]
 }
