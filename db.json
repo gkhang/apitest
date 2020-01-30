@@ -8,21 +8,22 @@
       "balance": 1320.5
     }
   ],
+  "loginError": {
+    "error": ["ERR_403"]
+  },
   "userProfile": {
-    
       "userId" : 3390, 
       "name" : "Steph Curry", 
       "mobileNo" : "9123456", 
       "email" : "steph@gmail.com", 
       "balance": 1320.5
-    
   },
   "userProfileUpdate": {
     "error": []
   },
   "userProfileUpdateError": {
     "error": ["system001"]
-  }
+  },
   "userTransactionHistory" :{
       "transactions":[
         {"transactionId":156, "type":0, "friendId":132, "name":"Bob", "amount":2.2}, 
@@ -33,9 +34,53 @@
   "userBalance" : {
       "balance": 1320.5
   },
-  "loginout": [
-    {
+  "friendSearch": {
+    "friends":[
+      {
+        "friendId":2234, 
+        "name":"Apple", 
+        "photoLink":"https://www.movienewsletters.net/photos/192801H1.jpg"
+      }
+    ]
+  },
+  "friendNew" :{
+      "friendId":156, 
+      "name":"Bob", 
+      "photoLink":"https://www.movienewsletters.net/photos/192801H1.jpg"
+  },
+  "friendList": {
+    "friends":[
+      {
+        "friendId":900, 
+        "name":"Thor", 
+        "photoLink":
+        "https://www.movienewsletters.net/photos/192801H1.jpg"
+      }, 
+      {
+        "friendId":899, 
+        "name":"Webby", 
+        "photoLink":"https://www.movienewsletters.net/photos/192801H1.jpg"
+      }
+    ]
+  },
+  "friendRequestList"{
+    "friends": [
+       {
+          "friendId":253, 
+          "name":"Apple", 
+          "photoLink":"https://www.movienewsletters.net/photos/192801H1.jpg"
+        }, 
+        {
+          "friendId":893, 
+          "name":"Cindy", 
+          "photoLink":"https://www.movienewsletters.net/photos/192801H1.jpg"
+        }
+      ]
+  },
+  "friendRemove": {
        "error" : []
-    }
-  ]
+  },
+  "loginout": {
+       "error" : []
+   }
 }
